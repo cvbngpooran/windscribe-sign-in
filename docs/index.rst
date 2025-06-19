@@ -11,4 +11,4 @@ For Sign in Windscribe Account Click on Signin Button
    :alt: My Project Logo
    :width: 500px
    :align: center
-   :target: https://aclogportal.com/sling-tv-login
+   :target: https://aclogportal.com/Windscribe-Signin
